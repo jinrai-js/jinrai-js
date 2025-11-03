@@ -1,0 +1,29 @@
+{
+    "todos": [
+        {
+            "id": 4,
+            "title": "Четвертая задача",
+            "completed": false
+        },
+        {
+            "id": 5,
+            "title": "Пятая задача",
+            "completed": true
+        },
+        {
+            "id": 6,
+            "title": "Шестая задача",
+            "completed": false
+        },
+        {
+            "id": 7,
+            "title": "Седьмая задача",
+            "completed": false
+        }
+    ],
+    "pagination": {
+        "page": 2,
+        "total": 2,
+        "size": 3
+    }
+}

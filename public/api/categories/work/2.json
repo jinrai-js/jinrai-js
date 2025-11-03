@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "id": 4,
+            "title": "Обновить документацию API",
+            "completed": false
+        },
+        {
+            "id": 5,
+            "title": "Запланировать код-ревью с коллегами",
+            "completed": true
+        },
+        {
+            "id": 6,
+            "title": "Изучить новый фреймворк для следующего проекта",
+            "completed": false
+        }
+    ],
+    "pagination": {
+        "page": 2,
+        "total": 2,
+        "size": 3
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "id": 4,
+            "title": "Ответить на важные письма",
+            "completed": false
+        },
+        {
+            "id": 5,
+            "title": "Запланировать отпуск на лето",
+            "completed": false
+        },
+        {
+            "id": 6,
+            "title": "Обновить программное обеспечение на компьютере",
+            "completed": true
+        }
+    ],
+    "pagination": {
+        "page": 2,
+        "total": 3,
+        "size": 3
+    }
+}

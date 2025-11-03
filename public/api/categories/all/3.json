@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "id": 7,
+            "title": "Написать статью для блога",
+            "completed": false
+        },
+        {
+            "id": 8,
+            "title": "Записаться на курсы повышения квалификации",
+            "completed": false
+        },
+        {
+            "id": 9,
+            "title": "Организовать домашнюю библиотеку",
+            "completed": false
+        }
+    ],
+    "pagination": {
+        "page": 3,
+        "total": 3,
+        "size": 3
+    }
+}

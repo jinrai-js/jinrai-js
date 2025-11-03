@@ -1,0 +1,19 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Купить молоко",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Подготовить отчёт",
+            "completed": true
+        },
+        {
+            "id": 3,
+            "title": "Позвонить врачу",
+            "completed": false
+        }
+    ]
+}

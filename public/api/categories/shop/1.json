@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Купить продукты на неделю",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Заказать новый монитор онлайн",
+            "completed": true
+        },
+        {
+            "id": 3,
+            "title": "Приобрести подарок на день рождения друга",
+            "completed": false
+        }
+    ],
+    "pagination": {
+        "page": 1,
+        "total": 2,
+        "size": 3
+    }
+}
