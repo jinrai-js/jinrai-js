@@ -17,5 +17,7 @@ export default defineConfig({
             "react-router-dom": path.resolve(__dirname, "./node_modules/react-router-dom"),
         },
     },
-    base: "render-test",
+    server: {
+        proxy: {},
+    },
 })
