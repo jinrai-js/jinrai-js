@@ -7,22 +7,22 @@ function App() {
         <div className="p-10">
             <BrowserRouter>
                 <nav className="flex gap-8 text-[20px] mb-8">
-                    <Link to="/">Home</Link>
+                    <Link to="/render-test/">Home</Link>
 
                     <div className="flex flex-col gap-1">
-                        <Link to="/todos">Todos</Link>
-                        <Link to="/tasks">Tasks</Link>
+                        <Link to="/render-test/todos">Todos</Link>
+                        <Link to="/render-test/tasks">Tasks</Link>
                     </div>
 
                     <div className="flex flex-col gap-1">
-                        <Link to="/categoryes">Categoryes</Link>
-                        <Link to="/categoryes/home">Home</Link>
-                        <Link to="/categoryes/work">Work</Link>
+                        <Link to="/render-test/categoryes">Categoryes</Link>
+                        <Link to="/render-test/categoryes/home">Home</Link>
+                        <Link to="/render-test/categoryes/work">Work</Link>
                     </div>
 
                     <div className="flex flex-col gap-1">
-                        <Link to="/search/text?search=hello">Search text</Link>
-                        <Link to="/search/types?types=work">Search types</Link>
+                        <Link to="/render-test/search/text?search=hello">Search text</Link>
+                        <Link to="/render-test/search/types?types=work">Search types</Link>
                     </div>
                 </nav>
 
